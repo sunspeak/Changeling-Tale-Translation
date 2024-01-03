@@ -1084,7 +1084,7 @@ translate russian ch2g_02_4de50b38:
 translate russian ch2g_02_fbfa6b4a:
 
     # "I gently wipe the foam off of her thin fingers, and curl my hand into hers, noticing how small her fingers feel."
-    "Я осторожно вытираю пену с её тонких пальцев и сжимаю её руку, замечая, какими маленькими кажутся ее пальчики."
+    "Я осторожно вытираю пену с её тонких пальцев и сжимаю её руку, замечая, какими маленькими кажутся её пальчики."
 
 # game/script_grace.rpy:522
 translate russian ch2g_02_24d3ec0e:
@@ -1144,499 +1144,499 @@ translate russian ch2g_02_0c558c71:
 translate russian ch2g_02_d4d07999:
 
     # c "I only remember moments and images. Talking to you, kissing you, floating in the sea. Creatures big and small swarmed us. Whales, sharks, tiny phosphorescent jellyfish dancing."
-    c ""
+    c "Я помню только моменты и образы. Как я говорил с тобой, целовался, плавал в море. Существа, большие и маленькие, окружали нас. Танцующие киты, акулы, фосфоресцирующие медузы."
 
 # game/script_grace.rpy:547
 translate russian ch2g_02_24ffa433:
 
     # c "I only remember moments and images. Talking to you, holding you, floating in the sea. Creatures big and small swarmed us. Whales, sharks, tiny phosphorescent jellyfish dancing."
-    c ""
+    c "Я помню только моменты и образы. Как я говорил с тобой, держал тебя на руках, плавал в море. Существа, большие и маленькие, окружали нас. Танцующие киты, акулы, фосфоресцирующие медузы."
 
 # game/script_grace.rpy:548
 translate russian ch2g_02_c2b33840:
 
     # g "We were underwater?"
-    g ""
+    g "Мы были под водой?"
 
 # game/script_grace.rpy:549
 translate russian ch2g_02_b8d15e1e:
 
     # c "We were. I remember feeling as though I might drown, but I was still able to breathe... somehow. The sharks just circled. We were safe, unharmed. The magic of dreams."
-    c ""
+    c "Да. Помню, мне казалось, что я могу утонуть, но я всё ещё мог дышать... каким-то образом. Акулы просто кружили. Мы были в безопасности, защищены. Магия снов."
 
 # game/script_grace.rpy:551
 translate russian ch2g_02_cb608987:
 
     # "I leave out the parts where I dreamed of us touching, kissing. The icy waters being warded away by the feeling of her warm body pressing against my—"
-    ""
+    "Я опускаю те места, где мне снилось, как мы касались друг друга, целовались. Как ощущение её теплого тела, прижимающегося ко мне, отгоняло ледяную воду..."
 
 # game/script_grace.rpy:552
 translate russian ch2g_02_25ccf94b:
 
     # g "Oh! That sounds perfect. Not a nightmare at all. Just... peaceful. Blissful!"
-    g ""
+    g "Ох! Звучит идеально. Это вовсе не кошмар. Лишь... умиротворение. Блаженство!"
 
 # game/script_grace.rpy:554
 translate russian ch2g_02_e029ab97:
 
     # c "It was."
-    c ""
+    c "Так и есть."
 
 # game/script_grace.rpy:561
 translate russian ch2g_02_28e14f7f:
 
     # "I hesitate before saying more."
-    ""
+    "Я колеблюсь, прежде чем сказать что-то ещё."
 
 # game/script_grace.rpy:563
 translate russian ch2g_02_4eb551a2:
 
     # c "Perhaps it can be... perfect. Or continue to be..."
-    c ""
+    c "Возможно, сон был... идеальным. И возможно он продолжается..."
 
 # game/script_grace.rpy:565
 translate russian ch2g_02_6c3ae86d:
 
     # "Grace's blush deepens, and I don't think it's from the steam."
-    ""
+    "Румянец Грейс становится ещё ярче, и я не думаю, что это из-за пара."
 
 # game/script_grace.rpy:566
 translate russian ch2g_02_2e12ca1a:
 
     # c "Ahem. Do you want to tell me about your dreams, Grace?"
-    c ""
+    c "Кхм. Не хочешь рассказать мне о своих снах, Грейс?"
 
 # game/script_grace.rpy:568
 translate russian ch2g_02_299fa792:
 
     # "She takes a deep breath. I watch her shoulders and chest rise in the foam."
-    ""
+    "Она делает глубокий вдох. Я наблюдаю, как её плечи и грудь вздымаются в пене."
 
 # game/script_grace.rpy:569
 translate russian ch2g_02_f3c266c5:
 
     # g "I do... but..."
-    g ""
+    g "Хочу... но..."
 
 # game/script_grace.rpy:575
 translate russian ch2g_02_02f45539:
 
     # g "Okay, yes. I will."
-    g ""
+    g "Ладно, хорошо. Я расскажу."
 
 # game/script_grace.rpy:577
 translate russian ch2g_02_a701cbcb:
 
     # g "Most of them were as you describe, just fleeting moments, experiences. I could smell your scent. Like that of ale and shaving cream."
-    g ""
+    g "Большинство из них были такими, как ты описал, просто мимолетными моментами, переживаниями. Я чувствовала твой запах. Как запах эля и крема для бритья."
 
 # game/script_grace.rpy:578
 translate russian ch2g_02_09c390c7:
 
     # "I can't help but laugh at hearing that."
-    ""
+    "Услышав это, я не могу удержаться от смеха."
 
 # game/script_grace.rpy:579
 translate russian ch2g_02_44d0ff42:
 
     # c "I must smell terrible!"
-    c ""
+    c "Должно быть, я ужасно пахну!"
 
 # game/script_grace.rpy:581
 translate russian ch2g_02_78397134:
 
     # g "I would say no, but we both know I smell of kelp, so there's no use in sugarcoating it."
-    g ""
+    g "Я бы сказала \"нет\", но мы оба понимаем, что от меня самой пахнет водорослями, так что нет смысла в этих умасливаниях."
 
 # game/script_grace.rpy:582
 translate russian ch2g_02_3172127f:
 
     # c "Touché. Please continue."
-    c ""
+    c "Точно. Пожалуйста, продолжай."
 
 # game/script_grace.rpy:585
 translate russian ch2g_02_4445675b:
 
     # g "We were underwater. I was kissing you, but you couldn't breath. You kept gasping for air. Finally I let you go, and you sank. When I dove down after you, you were gone... into the depths."
-    g ""
+    g "Мы были под водой. Я целовала тебя, но ты не мог дышать. Ты продолжал хватать ртом воздух. Наконец я отпустила тебя, и ты утонул. Когда я нырнула за тобой, ты исчез... в глубине."
 
 # game/script_grace.rpy:587
 translate russian ch2g_02_fcdfdf6e:
 
     # "My dreams now sounds foolish in comparison. No wonder she couldn't sleep."
-    ""
+    "Мои сны теперь кажутся глупыми по сравнению с её. Неудивительно, что она не могла уснуть."
 
 # game/script_grace.rpy:605
 translate russian ch2g_02_942ccf5e:
 
     # "For a second, it looks as though Grace may cry, but she splashes water on her face, tucks her wet hair behind her ears and keeps talking."
-    ""
+    "На секунду кажется, что Грейс вот-вот заплачет, но она брызгает водой на лицо, заправляет мокрые волосы за уши и продолжает говорить."
 
 # game/script_grace.rpy:607
 translate russian ch2g_02_dd67f520:
 
     # g "At the same time, every inch of my body felt... tight. Like it was being twisted, manipulated, wrung out like an old wet rag."
-    g ""
+    g "В то же время, каждый дюйм моего тела казался... напряжённым. Как будто его скручивали, обрабатывали, отжимали, как старую мокрую тряпку."
 
 # game/script_grace.rpy:608
 translate russian ch2g_02_d4211318:
 
     # "Her description sends me back to a different nightmare. Its sensations are still as vivid as the day I dreamt them. The tug of my jaw, the loss of control. My body goes stiff."
-    ""
+    "Это описание возвращает меня к другому кошмару. Ощущения всё ещё такие же яркие, как и в тот день, когда он мне приснились. Я сжимаю челюсть, теряю контроль. Моё тело напрягается."
 
 # game/script_grace.rpy:612
 translate russian ch2g_02_6f7b80c9:
 
     # "Grace sinks into the bath, wrapping her arms around her chest, grabbing hold of her shoulders."
-    ""
+    "Грейс опускается в ванну, обхватывает руками плечи, скрещивая их на груди."
 
 # game/script_grace.rpy:614
 translate russian ch2g_02_ca403620:
 
     # g "It felt like I was going to explode, or be pulled so taut I would pop, like a violin string."
-    g ""
+    g "Мне казалось, что я вот-вот взорвусь или меня натянут так сильно, что я лопну, как скрипичная струна."
 
 # game/script_grace.rpy:616
 translate russian ch2g_02_03178115:
 
     # g "I don't know... I'm probably not describing it right."
-    g ""
+    g "Я не знаю... Вероятно, я говорю слишком непонятные вещи."
 
 # game/script_grace.rpy:618
 translate russian ch2g_02_996b6ee0:
 
     # g "There was a burn inside me, too. One that didn't hurt, just... it felt nice, like hot tea going down your throat on a cold night. A refreshing heat, if that makes sense?"
-    g ""
+    g "Ещё внутри меня был огонь. Тот, который не причинял боли, а лишь... был приятен, как горячий чай, льющийся в горло холодной ночью. Освежающее тепло, если в этом есть какой-то смысл?"
 
 # game/script_grace.rpy:619
 translate russian ch2g_02_58b612cc:
 
     # c "It does. I know the feeling."
-    c ""
+    c "Есть. Мне знакомо это чувство."
 
 # game/script_grace.rpy:622
 translate russian ch2g_02_0c834679:
 
     # g "Like melting into myself."
-    g ""
+    g "Как будто растворяешься в самом себе."
 
 # game/script_grace.rpy:624
 translate russian ch2g_02_aa98d553:
 
     # "Grace inhales and holds my gaze."
-    ""
+    "Грейс вздыхает, держа на себе мой взгяд."
 
 # game/script_grace.rpy:625
 translate russian ch2g_02_ab754884:
 
     # g "Throughout the night, it was more than the dreams that made me uncomfortable. It was... feelings."
-    g ""
+    g "На протяжении всей ночи мне было некомфортно не только из-за снов. Это были... чувства."
 
 # game/script_grace.rpy:627
 translate russian ch2g_02_ce49828c:
 
     # "About me, I wonder? Us?"
-    ""
+    "Интересно, обо мне? О нас?"
 
 # game/script_grace.rpy:628
 translate russian ch2g_02_6dee50d5:
 
     # c "Emotions?"
-    c ""
+    c "Эмоции?"
 
 # game/script_grace.rpy:630
 translate russian ch2g_02_f5e83b97:
 
     # g "Yes... and no. More like sensations."
-    g ""
+    g "И да... и нет. Скорее ощущения."
 
 # game/script_grace.rpy:631
 translate russian ch2g_02_f8b0bf42:
 
     # c "Inside?"
-    c ""
+    c "Внутри?"
 
 # game/script_grace.rpy:633
 translate russian ch2g_02_67f7a412:
 
     # g "And out."
-    g ""
+    g "И снаружи."
 
 # game/script_grace.rpy:635
 translate russian ch2g_02_c377aef6:
 
     # g "When I kept waking up, the heat was still inside me. Eventually I decided to try and cool off. I filled the tub with cold water, but once I got in, the water still felt hot."
-    g ""
+    g "Каждый раз, когда я просыпалась, жар был всё ещё внутри меня. В конце концов я решила попробовать остыть. Я наполнила ванну холодной водой, но как только я залезла в неё, вода всё ещё казалась горячей."
 
 # game/script_grace.rpy:638
 translate russian ch2g_02_a39918c9:
 
     # g "When I decided to get out of the bath..."
-    g ""
+    g "Когда я решила вылезти из ванны..."
 
 # game/script_grace.rpy:639
 translate russian ch2g_02_8910a31b:
 
     # "Grace begins rubbing her arms again."
-    ""
+    "Грейс снова начинает потирать руки."
 
 # game/script_grace.rpy:641
 translate russian ch2g_02_fa00f425:
 
     # g "Malcolm... I need to tell you... and, I need to {i}show{/i} you something. But when I do, I'm afraid you'll run out that door and tell Marion. Or worse... never want to see me again."
-    g ""
+    g "Малькольм... Мне нужно сказать тебе кое-что... и {i} показать{/i}. Но когда я это сделаю, боюсь, ты выбежишь за дверь и расскажешь Мэрион. Или того хуже... никогда больше не захочешь меня видеть."
 
 # game/script_grace.rpy:643
 translate russian ch2g_02_99c7be92:
 
     # "It takes a moment to realize she is being quite serious."
-    ""
+    "Требуется мгновение, чтобы понять, что она говорит совершенно серьёзно."
 
 # game/script_grace.rpy:644
 translate russian ch2g_02_6831326f:
 
     # c "Grace, that is highly unlikely. Unless you spin a tale of great debauchery that happened between last night and right now, I can't imagine my feelings towards you changing in the slightest."
-    c ""
+    c "Грейс, это крайне маловероятно. Если только ты не расскажешь историю о великом разврате, который произошёл после прошлой ночи. Иначе я и представить не могу, чтобы мои чувства к тебе хоть в малейшей степени изменились."
 
 # game/script_grace.rpy:646
 translate russian ch2g_02_700a48ea:
 
     # g "I trust you, Malcolm. That's why I'm going to tell you. But please, be patient."
-    g ""
+    g "Я доверяю тебе, Малькольм. Вот почему я собираюсь тебе рассказать. Но, пожалуйста, наберись терпения."
 
 # game/script_grace.rpy:660
 translate russian ch2g_02_17a05d30:
 
     # "Grace slides her other hand out from under the sudsy water, letting it rest atop the tub rim. She beckons with one fingertip."
-    ""
+    "Грейс вынимает другую руку из-под мыльной пены, кладет её на край ванны и подзывает меня кончиком пальца."
 
 # game/script_grace.rpy:661
 translate russian ch2g_02_2f7400fd:
 
     # g "My arms. Feel them. Look at them."
-    g ""
+    g "Мои руки. Потрогай их. Посмотри на них."
 
 # game/script_grace.rpy:669
 translate russian ch2g_02_2fbce8d6:
 
     # "She lets my hand go, and extends her arms out a bit further towards the ceiling."
-    ""
+    "Она отпускает мою руку и ещё немного вытягивает свои из воды."
 
 # game/script_grace.rpy:670
 translate russian ch2g_02_65e32b2c:
 
     # c "Are you all right?"
-    c ""
+    c "С тобой всё хорошо?"
 
 # game/script_grace.rpy:672
 translate russian ch2g_02_a5e7df59:
 
     # g "Just look. Touch. Please."
-    g ""
+    g "Просто посмотри. Потрогай. Прошу."
 
 # game/script_grace.rpy:679
 translate russian ch2g_02_cf796452:
 
     # "I take one arm in my hands, running my thumb along her wet skin, wiping away the soapy film, and giving her goosebumps."
-    ""
+    "Я беру одну руку в свои ладони, провожу большим пальцем по её влажной коже, стирая мыльную плёнку, отчего у неё по коже бегут мурашки."
 
 # game/script_grace.rpy:686
 translate russian ch2g_02_9ed3d7a5:
 
     # "Upon first glance, I see the shine to her skin. Like iridescent flakes of opal covering every follicle on her arm. As I trail my fingers up her arm, more of her skin turns color."
-    ""
+    "С первого взгляда я замечаю сияние её кожи. Словно радужные опаловые чешуйки покрывают каждый фолликул на её руке. Когда я провожу пальцами вверх, всё больше её кожи приобретает этот цвет."
 
 # game/script_grace.rpy:687
 translate russian ch2g_02_320583b8:
 
     # "I've never seen anything like it."
-    ""
+    "Я никогда не видел ничего подобного."
 
 # game/script_grace.rpy:688
 translate russian ch2g_02_4b1448ad:
 
     # "No... I have. But only in the sea."
-    ""
+    "Нет... Я видела. Но только в море."
 
 # game/script_grace.rpy:690
 translate russian ch2g_02_3872fbee:
 
     # "They shine just like fish scales."
-    ""
+    "Она блестит точно так же, как рыбья чешуя."
 
 # game/script_grace.rpy:691
 translate russian ch2g_02_2eda7696:
 
     # "Applying a bit more pressure, a few flakes come off onto my thumb, but there's no doubting it. They seem to be affixed."
-    ""
+    "Я надавливаю чуть сильнее, и несколько чешуек падают мне на большой палец, но нет никаких сомнений. Кажется, они к ней приклеены."
 
 # game/script_grace.rpy:692
 translate russian ch2g_02_e6b30d7e:
 
     # "I turn her arm over and again, in search of glue, or some other method of decoration. I appreciate her fondness for the sea, but decorating herself like a fish is ridiculous even for Grace."
-    ""
+    "Я снова и снова переворачиваю её руку в поисках клея или какого-нибудь другого инструмента для декорирования. Я ценю её любовь к морю, но наряжать себя в рыбу нелепо даже для Грейс."
 
 # game/script_grace.rpy:693
 translate russian ch2g_02_4dc2eca4:
 
     # c "Grace, what is this? Some kind of new cosmetic?"
-    c ""
+    c "Грейс, что это? Какая-то новая косметика?"
 
 # game/script_grace.rpy:695
 translate russian ch2g_02_5f7c80a8:
 
     # "Her face drops as if I have personally offended her."
-    ""
+    "Она хмурит лицо, словно я оскорбил её."
 
 # game/script_grace.rpy:697
 translate russian ch2g_02_ce115a00:
 
     # g "No! It's {i}me!{/i} It's real, and it's all over my body."
-    g ""
+    g "Нет! Она {i}моя!{/i} Настоящая, и она по всему моему телу."
 
 # game/script_grace.rpy:698
 translate russian ch2g_02_ba9d456c:
 
     # "I don't know whether to be worried. The scales look so unreal, so unbelievable."
-    ""
+    "Я не знаю, стоит ли волноваться. Чешуйки выглядят такими нереальными, такими невероятными."
 
 # game/script_grace.rpy:699
 translate russian ch2g_02_daf63420:
 
     # c "Grace, is this some kind of hoax? People don't grow scales."
-    c ""
+    c "Грейс, это что, какой-то розыгрыш? У людей чешуя не отрастает."
 
 # game/script_grace.rpy:701
 translate russian ch2g_02_99df8607:
 
     # g "I assure you, I've no means to plaster scales all over my body, Malcolm."
-    g ""
+    g "Уверяю тебя, Малькольм, я физически не могу наклеить чешуйки на всё своё тело."
 
 # game/script_grace.rpy:703
 translate russian ch2g_02_7dc5771c:
 
     # c "Wait... All over?"
-    c ""
+    c "Подожди... На всё?"
 
 # game/script_grace.rpy:710
 translate russian ch2g_02_5027dfc2:
 
     # "She leaps from the water, and spins for me. Water splashes about as she twirls."
-    ""
+    "Она выпрыгивает из воды и кружится передо мной. Вода разбрызгивается, когда она вращается."
 
 # game/script_grace.rpy:711
 translate russian ch2g_02_53999713:
 
     # g "Just look at me!"
-    g ""
+    g "Просто взгляни на меня!"
 
 # game/script_grace.rpy:714
 translate russian ch2g_02_2fc3bbf8:
 
     # "Grace continues spinning, and the late morning sunlight grazes every spot on her torso."
-    ""
+    "Грейс продолжает кружиться, и лучи позднего утреннего солнца ласкают каждую её клеточку."
 
 # game/script_grace.rpy:715
 translate russian ch2g_02_be8bf354:
 
     # "I'm breathless at both her body and her skin."
-    ""
+    "У меня перехватывает дыхание от вида её тела и её кожи."
 
 # game/script_grace.rpy:716
 translate russian ch2g_02_6250bbf8:
 
     # "The sparkles trail down her chest, stomach, and thighs. I am without words, and stricken with high anxiety.."
-    ""
+    "Блеск следует по её груди, животу и бедрам. У меня нет слов, и я охвачен сильным беспокойством..."
 
 # game/script_grace.rpy:721
 translate russian ch2g_02_068e12c5:
 
     # "She leaps from the water, still half-covered in bubbles, and spins for me. Water splashes about as she twirls."
-    ""
+    "Она выпрыгивает из воды, всё еще наполовину покрытая пузырьками, и кружится передо мной. Вода разбрызгивается, когда она вращается."
 
 # game/script_grace.rpy:722
 translate russian ch2g_02_53999713_1:
 
     # g "Just look at me!"
-    g ""
+    g "Просто взгляни на меня!"
 
 # game/script_grace.rpy:723
 translate russian ch2g_02_9f8640e2:
 
     # "Grace continues spinning, and the late morning sunlight grazes every spot on the exposed parts of her torso."
-    ""
+    "Грейс продолжает кружиться, и лучи позднего утреннего солнца освещают каждую клеточку на её обнажённых частях."
 
 # game/script_grace.rpy:724
 translate russian ch2g_02_be8bf354_1:
 
     # "I'm breathless at both her body and her skin."
-    ""
+    "У меня перехватывает дыхание от вида её тела и её кожи."
 
 # game/script_grace.rpy:725
 translate russian ch2g_02_c4cb9125:
 
     # "The sparkles trail down her thighs. My voice gets caught in my throat, the words held up by high anxiety.."
-    ""
+    "Блеск следует по её бёдрам. Слова застревают в горле, голос пропал из-за сильного волнения..."
 
 # game/script_grace.rpy:727
 translate russian ch2g_02_fb2c8b62:
 
     # c "Are you... what's going on?"
-    c ""
+    c "Ты... что происходит?"
 
 # game/script_grace.rpy:728
 translate russian ch2g_02_054d5c35:
 
     # "I hesitate to ask if something has infected her or otherwise inflicted a virus upon her. The last thing I want to do is offend Grace... again."
-    ""
+    "Я стесняюсь спросить, не заразилась ли она чем-нибудь или не поймала какой-либо вирус. Последнее, что я хочу сделать, это оскорбить Грейс... снова."
 
 # game/script_grace.rpy:729
 translate russian ch2g_02_be9bca73:
 
     # c "It can't be real!"
-    c ""
+    c "Этого не может быть!"
 
 # game/script_grace.rpy:730
 translate russian ch2g_02_9d8e1a49:
 
     # g "Malcolm! If I were going to prank someone, it would be dear, unsuspecting Marion, not you!"
-    g ""
+    g "Малькольм! Если бы я хотела кого-либо разыграть, это была бы милая, ничего не подозревающая Мэрион, а не ты!"
 
 # game/script_grace.rpy:731
 translate russian ch2g_02_7681f976:
 
     # c "But... I..."
-    c ""
+    c "Но... Я..."
 
 # game/script_grace.rpy:733
 translate russian ch2g_02_1e3d7a48:
 
     # c "I'm utterly speechless."
-    c ""
+    c "Я совершенно потерял дар речи."
 
 # game/script_grace.rpy:734
 translate russian ch2g_02_7b31555c:
 
     # g "I seem to have that effect on people."
-    g ""
+    g "Видимо, я произвожу такое впечатление на людей."
 
 # game/script_grace.rpy:736
 translate russian ch2g_02_47427f86:
 
     # "She spins and spins, her wet hair and body spraying water as they go."
-    ""
+    "Она кружится и кружится, и её мокрые волосы и тело разбрызгивают воду вокруг."
 
 # game/script_grace.rpy:737
 translate russian ch2g_02_3f112725:
 
     # g "I shine just like a corkwing wrasse! I dare say it's beautiful, don't you think?"
-    g ""
+    g "Я сияю, как пробковый губан! Осмелюсь сказать, это прекрасно, тебе не кажется?"
 
 # game/script_grace.rpy:742
 translate russian ch2g_02_ba0d9a4c:
 
     # "I can't deny that her skin has taken on a pleasant luster, like a finely polished piece of mother of pearl. Can it really be called beautiful?"
-    ""
+    "Я не могу отрицать, что её кожа приобрела приятный блеск, как тонко отполированный кусочек перламутра. Можно ли это действительно назвать красивым?"
 
 # game/script_grace.rpy:743
 translate russian ch2g_02_59d02338:
