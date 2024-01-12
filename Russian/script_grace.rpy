@@ -5002,1195 +5002,1195 @@ translate russian ch2g_06_86088360:
 translate russian ch2g_07_54f53a5d:
 
     # "Hazel stands impatiently as I unload the last of today's market haul from her cart."
-    "Хейзел нетерпеливо стоит, пока я выгружаю из её тележки остатки сегодняшних покупок."
+    "Хейзел нетерпеливо стоит, пока я выгружаю из её телеги остатки сегодняшних покупок."
 
 # game/script_grace.rpy:2355
 translate russian ch2g_07_7aee14a9:
 
     # c "There we are. Steady, now, let me get you unhitched."
-    c ""
+    c "Вот и всё. Спокойно, теперь давай-ка я тебя отвяжу."
 
 # game/script_grace.rpy:2360
 translate russian ch2g_07_cffa22c4:
 
     # "She is anything but steady as I unfasten her tack. The bucket of fish rests just beneath her snout, and she tries to pull away, snorting in disgust."
-    ""
+    "Когда я отстёгиваю привязь, Хейзел ведет себя беспокойно. Ведро с рыбой оказывается прямо под её мордой, и она пытается от него отстраниться, фыркая от отвращения."
 
 # game/script_grace.rpy:2361
 translate russian ch2g_07_b4d5fbf6:
 
     # c "Not a fan of seafood?"
-    c ""
+    c "Не любишь морепродукты?"
 
 # game/script_grace.rpy:2368
 translate russian ch2g_07_a2a18b66:
 
     # "The last buckle comes free and Hazel trots across the paddock to the stable, wanting as little to do with the bucket as possible."
-    ""
+    "Последняя застёжка снимается, и Хейзел рысью бежит через загон к конюшне, желая иметь с ведром как можно меньше дел."
 
 # game/script_grace.rpy:2369
 translate russian ch2g_07_f3e34aab:
 
     # c "Can't say I blame ya, lass."
-    c ""
+    c "Не могу сказать, что упрекаю тебя, девочка."
 
 # game/script_grace.rpy:2370
 translate russian ch2g_07_090002ae:
 
     # "Reflecting on what I've gotten myself into, part of me wants to go hide in the corner with her. Surely Hazel would be less demanding than Alana and the MacLeod sisters?"
-    ""
+    "Размышляя о том, во что я себя втянул, часть меня хочет пойти и спрятаться в углу вместе с ней. Наверняка Хейзел будет менее требовательной, чем Алана и сёстры МакЛауд?"
 
 # game/script_grace.rpy:2375
 translate russian ch2g_07_6d3d2bdb:
 
     # "Hazel returns my gaze with a defiant, entitled look. Perhaps not, after all. Still, her horsey needs seem much simpler than those of my neighbors right now."
-    ""
+    "Хейзел отвечает мне вызывающим властным взглядом. В конце концов, возможно, и не будет. Тем не менее, её лошадиные потребности кажутся сейчас намного проще, чем потребности моих соседей."
 
 # game/script_grace.rpy:2376
 translate russian ch2g_07_09ccf4a0:
 
     # "That reminds me, it's time to feed her her daily grains. I fill her trough from the stable's store and backon her over."
-    ""
+    "Это напомнило мне, что настало время ежедневной кормёжки зерном. Я наполняю кормушку зерном из хранилища и подманиваю Хейзел к себе."
 
 # game/script_grace.rpy:2377
 translate russian ch2g_07_a5a962a9:
 
     # c "Your Highness, your banquet awaits."
-    c ""
+    c "Ваше высочество, банкет ждёт вас ."
 
 # game/script_grace.rpy:2383
 translate russian ch2g_07_d414421b:
 
     # "Hazel snuffles at the grains. She then gives me her all-too-famliar huff of disapproval, and wanders back to munch on some fresh shoots growing beside the stable."
-    ""
+    "Хейзел принюхивается к зёрну, затем одаривает меня своим слишком знакомым неодобрительным фырканьем и возвращается, чтобы пожевать несколько свежих побегов, растущих рядом со стойлом."
 
 # game/script_grace.rpy:2384
 translate russian ch2g_07_579dfd50:
 
     # c "Oh, come now. Y'acted like these were your favorite, just yesterday!"
-    c ""
+    c "Ой, да ладно тебе. Ещё вчера ты вела себя так, будто это было твоё любимое блюдо!"
 
 # game/script_grace.rpy:2385
 translate russian ch2g_07_30363ca0:
 
     # "This horse, I swear. Sometimes I wonder if Hazel asserts her independence just because she can."
-    ""
+    "Эта лошадь... Клянусь... Иногда я задаюсь вопросом, отстаивает ли Хейзел свою независимость лишь потому, что может."
 
 # game/script_grace.rpy:2387
 translate russian ch2g_07_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script_grace.rpy:2388
 translate russian ch2g_07_7c5b253f:
 
     # "My eyes fall back on the bucket of fish, and the irony is not lost on me."
-    ""
+    "Мой взгляд снова падает на ведро с рыбой, и осознаю ироничность мысли."
 
 # game/script_grace.rpy:2389
 translate russian ch2g_07_7fe4ed4b:
 
     # "If anyone has an independent streak to rival Hazel's, it's Grace. And even if I don't understand it under the circumstances, I have to respect it."
-    ""
+    "Если у кого и есть независимая жилка, способная соперничать с Хэйзел, так это у Грейс. И даже если я не понимаю её в данных обстоятельствах, я должен её уважать."
 
 # game/script_grace.rpy:2390
 translate russian ch2g_07_eab8dd80:
 
     # "I set aside my frustrating conversation with Alana to focus on my Lady of the Loch. Despite my best intentions, maybe going to see her again so soon isn't helpful, after all?"
-    ""
+    "Я выкинул из головы мой неприятный разговор с Аланой, чтобы сосредоточиться на моей \"Леди Озера\". Несмотря на мои самые благие намерения, может быть, в конце концов, такая скорая встреча не принесет нам пользы?"
 
 # game/script_grace.rpy:2393
 translate russian ch2g_07_a48c306c:
 
     # c "Well Hazel, what'd make the better gift? My company and a few fish? Or giving Grace some more time and space to herself?"
-    c ""
+    c "Ну, Хейзел, что было бы лучшим подарком? Моя компания и несколько рыбок? Или дать Грейс больше личного времени и пространства?"
 
 # game/script_grace.rpy:2396
 translate russian ch2g_07_54d6a037:
 
     # "Hazel doesn't respond, although I'm pretty sure I could guess her answer. Part of me agrees, if for no other reason than to wash my hands of this whole, slippery mess."
-    ""
+    "Хейзел не отвечает, хотя я почти уверен, что мог бы догадаться о её ответе. Часть меня согласна, хотя бы от того, что мне не нежно будет марать руки во всём этом скользком месиве."
 
 # game/script_grace.rpy:2397
 translate russian ch2g_07_da80c24d:
 
     # "Then again, I {i}do{/i} care for Grace, and want to make sure she's well fed and looked after. The bucket of fish sits before me, both an offering and a conundrum."
-    ""
+    "С другой стороны, я {i}забочусь{/i} о Грейс и хочу убедиться, что она хорошо питается и окружена заботой. Передо мной стоит ведро с рыбой — одновременно и подношение, и головоломка."
 
 # game/script_grace.rpy:2400
 translate russian ch2g_07_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:2407
 translate russian ch2g_07_2dff1580:
 
     # "I can't shake the feeling that I'm in over my head. Maybe I should leave her be. It's what she wanted, after all."
-    ""
+    "Я не могу избавиться от чувства, что я влип по уши. Может, мне стоит оставить её в покое. В конце концов, это то, чего она хотела."
 
 # game/script_grace.rpy:2408
 translate russian ch2g_07_70fb44f5:
 
     # "There's no need for me to beg her to return home, either. That's not my job or responsibility. She's an adult..."
-    ""
+    "Не говоря о том, что мне нет необходимости умолять её вернуться домой. Это не моя работа и не моя ответственность. Она взрослая..."
 
 # game/script_grace.rpy:2409
 translate russian ch2g_07_4ee7ef21:
 
     # "Sort of."
-    ""
+    "Или вроде того."
 
 # game/script_grace.rpy:2410
 translate russian ch2g_07_55552e31:
 
     # "And it's what Alana wanted too. I look forward to not having to listen to Alana's particular brand of madness on the subject of the MacLeods ever again."
-    ""
+    "И это то, чего хотела Алана. Я буду только рад, елси мне больше не придется выслушивать безумства Аланы на тему МакЛаудов."
 
 # game/script_grace.rpy:2411
 translate russian ch2g_07_b1c46e00:
 
     # "My head is full to the brim with competing thoughts, most of them not even my own, just placed there by others. Me? Changing my neighbor into a sea creature? I have no reaction."
-    ""
+    "Моя голова до краев забита противоречивыми мыслями, большинство из которых даже не мои собственные, просто вложенные туда другими. Я? Превращаю своего соседа в морское создание? Я не знаю, как на это реагировать."
 
 # game/script_grace.rpy:2412
 translate russian ch2g_07_99771f1e:
 
     # "Grace is pleased. Grace is confident. Grace can't possibly be in harm's way."
-    ""
+    "Грейс довольна. Грейс уверена в себе. Грейс никак не может быть в опасности."
 
 # game/script_grace.rpy:2413
 translate russian ch2g_07_2791ee34:
 
     # "That's what I tell myself as I look at the bucket, now envisioning roasting the fish for Gran instead of relying on them to bargain with a fish-girl."
-    ""
+    "Вот что я говорю себе, глядя на ведро, представляя, как жарю рыбу для Бабушки, вместо того чтобы положиться на неё в переговорах с девушкой-рыбой."
 
 # game/script_grace.rpy:2415
 translate russian ch2g_07_d1ef0845:
 
     # c "Malcolm! Come to your senses. Grace is no more a sea maiden than you are. She has shiny skin. That's all. That. Is. All."
-    c ""
+    c "Малькольм! Прийди в себя. Грейс не большая морская дева, чем ты. У неё блестящая кожа. Вот и всё. Вот. И. Всё."
 
 # game/script_grace.rpy:2418
 translate russian ch2g_07_e963573d:
 
     # "Hazel pauses her munching just long enough to give me a look that lets me know she thinks I'm crazy."
-    ""
+    "Хейзел прекращает жевать лишь для того, чтобы бросить на меня взгляд, дающий понять, что она считает меня безумным."
 
 # game/script_grace.rpy:2419
 translate russian ch2g_07_13e18df1:
 
     # c "Crazy no more, Miss Hazel. Crazy no more."
-    c ""
+    c "Больше никаких безумств, Мисс Хейзел. Больше никаких."
 
 # game/script_grace.rpy:2421
 translate russian ch2g_07_64f63a0b:
 
     # "My mind is settled, and my conscience clear. I finally pick up the bucket, knowing that Gran and I will have too much fish for dinner."
-    ""
+    "Мои мысли успокоились, а совесть чиста. Я, наконец, беру ведро, зная, что у нас с бабушкой будет слишком много рыбы на ужин."
 
 # game/script_grace.rpy:2427
 translate russian ch2g_07_77607be2:
 
     # "We dine early, and pull two chairs outside to watch the sunset. The hum of insects, punctuated by the thrum of distant frogs, punctuates the relaxing atmosphere."
-    ""
+    "Мы рано ужинаем и выносим два стула на улицу, чтобы полюбоваться закатом. Жужжание насекомых, перемежаемое отдалённым кваканьем лягушек, подчеркивая расслабляющую атмосферу."
 
 # game/script_grace.rpy:2428
 translate russian ch2g_07_21553596:
 
     # "Today, I play the role of chef. With a flourish I remove the lid from the serving dish."
-    ""
+    "Сегодня я выступаю в роли шеф-повара. Я с размаху снимаю крышку с сервировочного блюда."
 
 # game/script_grace.rpy:2430
 translate russian ch2g_07_b8c7b527:
 
     # s "Malcolm! I send you off to market for flour, and you return with this? That's truly a fine spread of seafood!"
-    s ""
+    s "Малькольм! Я отправила тебя на рынок за мукой, а ты вернулся с этим? Это действительно прекрасное рыбное блюдо!"
 
 # game/script_grace.rpy:2431
 translate russian ch2g_07_ab2f94fa:
 
     # c "Apologies, Gran. I saw all the fresh perch, and thought we may dine like a king and queen this eve."
-    c ""
+    c "Прошу прощения, бабуль. Я увидел свежего окуня и подумал, что сегодня вечером мы можем поужинать как король и королева."
 
 # game/script_grace.rpy:2433
 translate russian ch2g_07_c3c5e83b:
 
     # "It hurts me to know I am lying by omission, not telling my grandmother one solitary thing about Grace, Alana, or the strange goings-on of the last few days."
-    ""
+    "Мне больно осознавать, что я лгу, не говоря своей бабушке ни слова о Грейс, Алане или странных событиях последних нескольких дней."
 
 # game/script_grace.rpy:2434
 translate russian ch2g_07_a765b6b6:
 
     # "But I take solace in knowing I am relieving Gran of the pressure I currently feel."
-    ""
+    "Но я нахожу утешение в знании того, что избавляю бабушку от той тяжести, которую сейчас испытываю."
 
 # game/script_grace.rpy:2440
 translate russian ch2g_07a_4b9e07ad:
 
     # "I can't just leave Grace adrift. No matter what Alana says, I'm still worried about her, and I need to see her again."
-    ""
+    "Я не могу просто бросить Грейс на произвол судьбы. Что бы ни говорила Алана, я всё ещё беспокоюсь о ней, и мне нужно увидеть её снова."
 
 # game/script_grace.rpy:2441
 translate russian ch2g_07a_d9336cad:
 
     # c "Anyway, we'd have a hard time downing all these fish by ourselves, eh?"
-    c ""
+    c "В любом случае, нам было бы тяжело самим съесть всю эту рыбу, да?"
 
 # game/script_grace.rpy:2446
 translate russian ch2g_07a_4a7a9b5e:
 
     # "I get the sense that Hazel would like nothing to do with my fish or my fishy escapades. I oblige her, pick up the bucket, and head down to the loch on foot."
-    ""
+    "У меня такое чувство, что Хейзел не хотела бы иметь ничего общего с моей рыбой или моими рыбными авантюрами. Я делаю ей одолжение — беру ведро и отправляюсь к озеру пешком."
 
 # game/script_grace.rpy:2455
 translate russian ch2g_07a_ea129afe:
 
     # "The waters are calm and the shore is peaceful. A lovely time and place for a picnic, if not for my stomach being tied in knots."
-    ""
+    "Вода спокойная, а берег тихий. Прекрасное время и место для пикника, если бы у меня не скрутило желудок."
 
 # game/script_grace.rpy:2456
 translate russian ch2g_07a_30b19be0:
 
     # "I tell myself there's no need to be nervous. Never mind Alana. Never mind Grace's scales. Right now, I'm just here to enjoy a light meal on a beautiful day, and with good company."
-    ""
+    "Я говорю себе, что не нужно нервничать. Не обращать внимания на Алану. Не обращать внимания на чешую Грейс. Прямо сейчас я здесь лишь для того, чтобы насладиться лёгким ужином в прекрасный день и в хорошей компании."
 
 # game/script_grace.rpy:2457
 translate russian ch2g_07a_961a8ff9:
 
     # "Company who presently seems to be missing in action. Could she... could she possibly have returned home to her sister?"
-    ""
+    "Компанией, которая в настоящее время, похоже, числится пропавшей без вести. Могла ли она... могла ли она вернуться домой к своей сестре?"
 
 # game/script_grace.rpy:2458
 translate russian ch2g_07a_5584e158:
 
     # "After a moment, I laugh aloud at the thought. No, that's not the Grace I know. If anything, she may have taken to cruising the whole length of the loch by now."
-    ""
+    "Через мгновение я громко смеюсь от этой мысли. Нет, это не та Грейс, которую я знаю. Если уж на то пошло, она, возможно, уже совершила заплыв вдоль всего озера."
 
 # game/script_grace.rpy:2466
 translate russian ch2g_07a_1c417409:
 
     # "I set down the pail of fish, gather some dry brush and begin making a small firepit on the beach. If the smell of grilled fish doesn't attract her, maybe the smoke signals will."
-    ""
+    "Я ставлю ведро с рыбой на землю, собираю сухие ветки и начинаю разводить небольшой костер на пляже. Если запах жареной рыбы не привлечет её, то, возможно, привлечёт дымовой сигнал."
 
 # game/script_grace.rpy:2475
 translate russian ch2g_07a_719d9640:
 
     # "The kindling has grown into a proper flame by the time I spy a pink dot out in the middle of the loch. It gets closer, and soon enough Grace's dress comes into focus."
-    ""
+    "Тлеющие угольки превратилась в чистое пламя к тому времени, когда я замечаю розовую точку посреди озера. Она приближается, и довольно скоро в фокусе оказывается платье Грейс."
 
 # game/script_grace.rpy:2478
 translate russian ch2g_07a_f3d73f4b:
 
     # "It's dripping wet as she steps out of the water, soggy as the girl wearing it."
-    ""
+    "Когда Грейс выходит из воды, платье насквозь мокрое, как и девушка, одетая в него."
 
 # game/script_grace.rpy:2481
 translate russian ch2g_07a_173c5218:
 
     # g "You came."
-    g ""
+    g "Ты пришёл."
 
 # game/script_grace.rpy:2482
 translate russian ch2g_07a_47cd9e40:
 
     # c "I did. And I come bearing gifts."
-    c ""
+    c "Да. И пришёл с подарками."
 
 # game/script_grace.rpy:2489
 translate russian ch2g_07a_f5bcd1f6:
 
     # "A trail of drips follows Grace as she comes onshore to inspect the pail. Up close, I can see that her \"condition\" has not improved."
-    ""
+    "За Грейс тянется дорожка капель, когда она выходит на берег, чтобы заглянуть в ведро. Вблизи я вижу, что ее \"состояние\" не улучшилось."
 
 # game/script_grace.rpy:2492
 translate russian ch2g_07a_5d7f9fd9:
 
     # g "Perch! You remembered."
-    g ""
+    g "Окунь! Ты не забыл."
 
 # game/script_grace.rpy:2493
 translate russian ch2g_07a_141b1db9:
 
     # c "Aye. Fresh from the market."
-    c ""
+    c "Ага. Свежий, только с рынка."
 
 # game/script_grace.rpy:2495
 translate russian ch2g_07a_2bad2148:
 
     # g "That's dandy. Don't need that fire, though, Malcolm. I prefer my fish raw."
-    g ""
+    g "Это здорово. Только давай без этого огня, Малькольм. Я предпочитаю сырую рыбу."
 
 # game/script_grace.rpy:2496
 translate russian ch2g_07a_2307644f:
 
     # c "{i}Raw?{/i} Och, Grace, that can't be good for you!"
-    c ""
+    c "{i}Сырую?{/i} Ох, Грейс, она не пойдёт тебе на пользу!"
 
 # game/script_grace.rpy:2498
 translate russian ch2g_07a_a3fa8ca1:
 
     # g "No problem. Not if they're {i}really{/i} fresh. Watch this!"
-    g ""
+    g "Не вижу проблемы. Всё будет хорошо, если она {i}действительно{/i} свежая. Смотри!"
 
 # game/script_grace.rpy:2502
 translate russian ch2g_07a_7aba0dfb:
 
     # "She skips back into the surf and dives in headfirst. A few dozen yards out she emerges, flipping and turning nimbly. I can see how the fishmonger might mistake her for a sea nymph."
-    ""
+    "Она прыгает обратно в полосу прибоя и ныряет головой вперед. Через несколько десятков ярдов она выныривает, ловко оборачиваясь. Я понимаю, как торговец рыбой смог принять её за морскую нимфу."
 
 # game/script_grace.rpy:2503
 translate russian ch2g_07a_2a17ec7c:
 
     # "It's incredible how acrobatic she's become. I'm charmed and perplexed. I guess that's life with her every day."
-    ""
+    "Невероятно, какой акробаткой она стала. Я очарован и озадачен. Я думаю, так выглядит жизнь с ней каждый день."
 
 # game/script_grace.rpy:2504
 translate russian ch2g_07a_8656692b:
 
     # "Bending at the waist, she curves her body into the water like a porpoise. A few minutes later, she comes back up with a fish in her mouth."
-    ""
+    "Сгибаясь в талии, она изгибает свое тело в воде, как дельфин. Несколько минут спустя она выныривает обратно с рыбой во рту."
 
 # game/script_grace.rpy:2512
 translate russian ch2g_07a_bc2f5089:
 
     # g "Mmf—Wan' some?"
-    g ""
+    g "Ммф... Хофефь попробофать?"
 
 # game/script_grace.rpy:2513
 translate russian ch2g_07a_6ae9b51e:
 
     # "The fish still wriggles pathetically in her mouth."
-    ""
+    "Рыба все еще жалко извивается у неё во рту."
 
 # game/script_grace.rpy:2514
 translate russian ch2g_07a_e5a057aa:
 
     # c "Er... no, I've plenty here. Thank you."
-    c ""
+    c "Э-э... нет, у меня и своей рыбы достаточно. Спасибо."
 
 # game/script_grace.rpy:2517
 translate russian ch2g_07a_3cc323cd:
 
     # "Grace pulls her treat from her lips, dangles it above her gaping mouth, and lets it drop."
-    ""
+    "Грейс отрывает лакомство от губ, поднимает его над разинутым ртом и роняет."
 
 # game/script_grace.rpy:2518
 translate russian ch2g_07a_b1551ab5:
 
     # "My stomach drops, as well."
-    ""
+    "Мой желудок падает вместе с рыбой."
 
 # game/script_grace.rpy:2520
 translate russian ch2g_07a_029eb23b:
 
     # g "So good! So salty! So fresh!"
-    g ""
+    g "Так вкусно! Такая солёная! Такая свежая!"
 
 # game/script_grace.rpy:2521
 translate russian ch2g_07a_0f851f71:
 
     # c "Why that sounds like you're describing yourself, Grace."
-    c ""
+    c "Почему-то это звучит так, будто ты описываешь себя, Грейс."
 
 # game/script_grace.rpy:2529
 translate russian ch2g_07a_efea7df3:
 
     # "She comes to me, pinching my sides."
-    ""
+    "Она подходит ко мне и щиплет меня за бока."
 
 # game/script_grace.rpy:2530
 translate russian ch2g_07a_47522856:
 
     # g "You devil!"
-    g ""
+    g "Ты дьявол!"
 
 # game/script_grace.rpy:2559
 translate russian ch2g_07a_365f215a:
 
     # "I let her chase me around the fire until we tumble adjacent to each other on the fine pebble beach."
-    ""
+    "Я позволяю ей гоняться за мной вокруг костра, пока мы не падаем рядом друг с другом на мелкий галечный пляж."
 
 # game/script_grace.rpy:2571
 translate russian ch2g_07a_84764dc9:
 
     # c "You know, that fire was never for the fish. I built it simply so that sparks could fly between us, Grace."
-    c ""
+    c "Знаешь, этот костер никогда и не предназначался для рыбы. Я развёл его просто для того, чтобы между нами пролетела искра, Грейс."
 
 # game/script_grace.rpy:2573
 translate russian ch2g_07a_f5771737:
 
     # g "No! No puns!"
-    g ""
+    g "Нет! Никаких каламбуров!"
 
 # game/script_grace.rpy:2575
 translate russian ch2g_07a_6023f7a1:
 
     # "She flicks a pebble at me, then smiles."
-    ""
+    "Она бросает в меня камешек, затем улыбается."
 
 # game/script_grace.rpy:2577
 translate russian ch2g_07a_99e14bed:
 
     # c "This is my favorite way to see you, Grace. Happy."
-    c ""
+    c "Мне нравится видеть тебя такой, Грейс. Счастливой."
 
 # game/script_grace.rpy:2579
 translate russian ch2g_07a_c704d84d:
 
     # g "You'd better get used to it, then."
-    g ""
+    g "Тогда тебе лучше привыкнуть к этому."
 
 # game/script_grace.rpy:2580
 translate russian ch2g_07a_38f85fad:
 
     # c "Seeing you?"
-    c ""
+    c "Привыкнуть видеть тебя?"
 
 # game/script_grace.rpy:2582
 translate russian ch2g_07a_246241d9:
 
     # g "Me being happy."
-    g ""
+    g "К счастливой мне."
 
 # game/script_grace.rpy:2586
 translate russian ch2g_07a_3f39ede8:
 
     # "She gives me an odd look, starry-eyed, but with a hint of remorse."
-    ""
+    "Она бросает на меня странный взгляд, мечтательный, но с оттенком раскаяния."
 
 # game/script_grace.rpy:2587
 translate russian ch2g_07a_819039e5:
 
     # g "You know what, Malcolm? Now that I've taught myself to fish..."
-    g ""
+    g "Знаешь, Малькольм? Теперь, когда я научилась ловить рыбу..."
 
 # game/script_grace.rpy:2588
 translate russian ch2g_07a_2e969ce4:
 
     # c "You'll run the fishmonger out of business?"
-    c ""
+    c "Ты оставишь торговца рыбой не у дел?"
 
 # game/script_grace.rpy:2590
 translate russian ch2g_07a_767e047d:
 
     # g "Hah. No, I was thinking... I could actually do it. {i}Survive out here.{/i} There's a fresh spring behind the castle ruins, and..."
-    g ""
+    g "Ха. Нет, я просто подумала... Я действительно могла бы это делать. {i}Выживать здесь.{/i} За руинами замка есть свежий источник, и..."
 
 # game/script_grace.rpy:2592
 translate russian ch2g_07a_2bdf3a6b:
 
     # "She looks at me pleadingly, as if not to question her."
-    ""
+    "Она умоляюще смотрит на меня, как будто прося не задавать лишних вопросов."
 
 # game/script_grace.rpy:2593
 translate russian ch2g_07a_24a054b7:
 
     # g "I could live in open waters forever. I... have a real home now."
-    g ""
+    g "Я могла бы вечно жить в открытых водах. У меня... теперь есть настоящий дом."
 
 # game/script_grace.rpy:2595
 translate russian ch2g_07a_759a84ea:
 
     # "I let her words sink in. They don't surprise me, but that doesn't make them any easier to hear."
-    ""
+    "Я перевариваю её слова. Они меня не удивляют, но от этого их не становится легче слышать."
 
 # game/script_grace.rpy:2596
 translate russian ch2g_07a_b35b85e3:
 
     # c "So, you won't go back?"
-    c ""
+    c "Значит, ты не вернёшься?"
 
 # game/script_grace.rpy:2598
 translate russian ch2g_07a_67313ecd:
 
     # g "I didn't say that."
-    g ""
+    g "Я этого не говорила."
 
 # game/script_grace.rpy:2599
 translate russian ch2g_07a_e4cba3b9:
 
     # "But the idea is there. The seed planted. I can tell she is strongly considering it. Has she truly thought everything through?"
-    ""
+    "Но идея есть. Зерно посажено. Могу сказать, что она серьезно обдумывает данный вариант. Действительно ли она всё продумала?"
 
 # game/script_grace.rpy:2601
 translate russian ch2g_07a_970dc0e5:
 
     # c "Grace, take it from me. There's more to survival than food and drink. Think about when the winter squalls come in off the North Sea—"
-    c ""
+    c "Грейс, поверь мне. Выживание — это нечто большее, чем еда и вода. Подумай, что будет, когда с Северного моря налетят зимние шторма..."
 
 # game/script_grace.rpy:2603
 translate russian ch2g_07a_ffaf2e81:
 
     # g "I can take shelter in the grotto. My body will keep me warm."
-    g ""
+    g "Я смогу укрыться в гроте. Моё тело согреет меня."
 
 # game/script_grace.rpy:2604
 translate russian ch2g_07a_bd7af1e5:
 
     # "My mouth hangs half-open for a moment. Perhaps she has thought this through. I change tactics."
-    ""
+    "На мгновение мой рот приоткрывается. Возможно, она действительно всё обдумала. Я меняю тактику."
 
 # game/script_grace.rpy:2605
 translate russian ch2g_07a_9ab8a5c1:
 
     # c "What about your sister? What about the villagers?"
-    c ""
+    c "А как же твоя сестра? Жители деревни?"
 
 # game/script_grace.rpy:2607
 translate russian ch2g_07a_deb76d4d:
 
     # g "Marion will be fine. She'll adapt, just as I have. And the villagers? They'll never need to know."
-    g ""
+    g "С Мэрион всё будет хорошо. Она приспособится, как и я. А жители деревни? Они никогда не узнают."
 
 # game/script_grace.rpy:2608
 translate russian ch2g_07a_4e4debb4:
 
     # c "But they already do. Grace, there are rumors in town. The fishmonger. He's seen a mermaid, he says."
-    c ""
+    c "Но они уже знают. Грейс, в городе ходят слухи. Рыбак. Он говорит, что видел русалку."
 
 # game/script_grace.rpy:2610
 translate russian ch2g_07a_c3d39a4d:
 
     # g "Oh? I should love to meet her, I'm certain we'd be fast friends."
-    g ""
+    g "Оу?” Я бы с удовольствием с ней познакомилась, уверена, мы бы быстро подружились."
 
 # game/script_grace.rpy:2611
 translate russian ch2g_07a_76671537:
 
     # c "It's no laughing matter. If you're planning on staying out here, you must be careful. We don't know what's happening to you, and the last thing you need is unwanted attention."
-    c ""
+    c "Это не шутки. Если ты планируешь здесь жить, ты должна быть осторожна. Мы не знаем, что с тобой происходит, и последнее, что тебе нужно, — это лишнее внимание."
 
 # game/script_grace.rpy:2613
 translate russian ch2g_07a_b4b462de:
 
     # g "From whom? An old fisherman pining after imaginary sea nymphs?"
-    g ""
+    g "Чьё внимание? Старого рыбака, чахнувшего по воображаемым морским нимфам?"
 
 # game/script_grace.rpy:2614
 translate russian ch2g_07a_01aea290:
 
     # c "Nae. From villagers, outsiders, people who would shun you, hunt you, try to capture you, humiliate you."
-    c ""
+    c "Неа. Внимание деревенских, чужаков, людей, которые будут избегать тебя, охотиться на тебя, пытаться поймать тебя, унизить тебя."
 
 # game/script_grace.rpy:2616
 translate russian ch2g_07a_0241a87e:
 
     # g "You sound fearful."
-    g ""
+    g "В выглядишь испуганным."
 
 # game/script_grace.rpy:2617
 translate russian ch2g_07a_4c7199d3:
 
     # c "I am!"
-    c ""
+    c "Так и есть!"
 
 # game/script_grace.rpy:2619
 translate russian ch2g_07a_0d8fa5c8:
 
     # "She rolls her eyes."
-    ""
+    "Она закатывает глаза."
 
 # game/script_grace.rpy:2621
 translate russian ch2g_07a_61701c6c:
 
     # g "You're overreacting. Who would believe a fisherman anyway? People don't pay heed to sailors' superstitions anymore."
-    g ""
+    g "Ты слишком остро реагируешь. Кто вообще поверит рыбаку? Люди больше не обращают внимания на суеверия моряков."
 
 # game/script_grace.rpy:2623
 translate russian ch2g_07a_2f73a9ba:
 
     # "Grace looks wistfully out to the water then to her scaly arms."
-    ""
+    "Грейс задумчиво смотрит на воду, затем на свои чешуйчатые руки."
 
 # game/script_grace.rpy:2624
 translate russian ch2g_07a_76d26ac1:
 
     # g "Even if they should."
-    g ""
+    g "Даже если им стоит это сделать."
 
 # game/script_grace.rpy:2626
 translate russian ch2g_07a_72077ffc:
 
     # "I sigh to myself. Who, she asks, would believe a fisherman's superstitions?"
-    ""
+    "Я вздыхаю про себя. Кто, она спрашивает, поверит суевериям рыбака?"
 
 # game/script_grace.rpy:2627
 translate russian ch2g_07a_88f97e2b:
 
     # "Alana would."
-    ""
+    "Алана поверит."
 
 # game/script_grace.rpy:2629
 translate russian ch2g_07a_5fd420f8:
 
     # "Do I honestly tell a woman I'm attracted to that our school teacher says I am causing her to turn into a sea creature? I would be made a fool, wouldn't I?"
-    ""
+    "Должен ли я честно пересказать девушке, которая мне нравится, слова нашей школьной учительницы о том, что она из-за меня превращается в морское создание? Я бы выглядел, как дурак, не так ли?"
 
 # game/script_grace.rpy:2632
 translate russian ch2g_07a_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:2637
 translate russian ch2g_07a_084f4540:
 
     # "Perhaps it's better to leave well enough alone."
-    ""
+    "Возможно, лучше оставить всё как есть."
 
 # game/script_grace.rpy:2638
 translate russian ch2g_07a_fa0107a9:
 
     # c "Who would believe him? I would."
-    c ""
+    c "Кто бы ему поверил? Я, например."
 
 # game/script_grace.rpy:2640
 translate russian ch2g_07a_1ac6fa3b:
 
     # "That makes her smile again. I don't want Grace to have to give her hopes up, even if I'm having a hard enough time grasping her desire to become a fish."
-    ""
+    "Это снова заставляет её улыбнуться. Я не хочу, чтобы Грейс теряла надежду, даже если мне так тяжело понять её желание стать рыбой."
 
 # game/script_grace.rpy:2641
 translate russian ch2g_07a_f1b316f3:
 
     # c "I only want to know what you're going to do about it."
-    c ""
+    c "Я только хочу знать, что ты собираешься с этим делать."
 
 # game/script_grace.rpy:2643
 translate russian ch2g_07a_5917784a:
 
     # g "You're truly concerned?"
-    g ""
+    g "Ты действительно так обеспокоен?"
 
 # game/script_grace.rpy:2644
 translate russian ch2g_07a_f05f9b44:
 
     # c "For your well-being? Grace, of course!"
-    c ""
+    c "Твоим благополучием? Конечно, Грейс!"
 
 # game/script_grace.rpy:2646
 translate russian ch2g_07a_b2bcd403:
 
     # "We're still sitting side by side as she leans her head on my shoulder. It's then that I notice her ears look to be longer."
-    ""
+    "Мы продолжаем сидеть бок о бок, когда она кладет голову мне на плечо. Именно тогда я замечаю, что её уши выглядят длиннее."
 
 # game/script_grace.rpy:2647
 translate russian ch2g_07a_f5a7f403:
 
     # g "Malcolm, I... appreciate your willingness to get to know me, the real me. And you somehow can get to the heart of me, somewhere beneath my layers and layers and more layers of protection."
-    g ""
+    g "Малькольм, я... ценю твое желание узнать меня, настоящую меня. И ты каким-то образом можешь добраться до моего сердца, где-то под моими слоями, и ещё слоями, и ещё большим количеством слоёв защиты."
 
 # game/script_grace.rpy:2649
 translate russian ch2g_07a_47fbb348:
 
     # g "But... you could never understand what I'm going through right now."
-    g ""
+    g "Но... ты никогда не сможешь понять, через что я сейчас прохожу."
 
 # game/script_grace.rpy:2652
 translate russian ch2g_07a_9531eb9a:
 
     # "A slience stretches, punctuated only by the quiet lapping of waves. I feel a wall going up between the two of us very quickly. A wall I helped construct."
-    ""
+    "Нависает тишина, прерываемая лишь тихим плеском волн. Я чувствую, как между нами очень быстро возводится стена. Стена, которую я помог возвести."
 
 # game/script_grace.rpy:2654
 translate russian ch2g_07a_cf357fba:
 
     # g "You're going to want to change me, as others do. As Marion will."
-    g ""
+    g "Ты захочешь изменить меня, как и другие. Как и Мэрион."
 
 # game/script_grace.rpy:2655
 translate russian ch2g_07a_45061107:
 
     # c "I don't want you to change, Grace. No. I want..."
-    c ""
+    c "Я не хочу тебя изменить, Грейс. Нет. Я хочу..."
 
 # game/script_grace.rpy:2660
 translate russian ch2g_07a_ac2745db:
 
     # c "I just want you to be healthy. I'm skeptical that this condition is the miracle you think it is. Yes, I would try to make it better. I'd want you to want that, too."
-    c ""
+    c "Я просто хочу, чтобы ты была здорова. Я скептически отношусь к тому, что это состояние является чудом, как ты считаешь. Да, я бы попытался его улучшить. Я бы хотел, чтобы ты тоже этого хотела."
 
 # game/script_grace.rpy:2663
 translate russian ch2g_07a_1735825c:
 
     # g "I won't. Not ever."
-    g ""
+    g "Я не хочу. Никогда."
 
 # game/script_grace.rpy:2664
 translate russian ch2g_07a_a10a13f3:
 
     # "And I believe her."
-    ""
+    "И я верю ей."
 
 # game/script_grace.rpy:2667
 translate russian ch2g_07a_17ea349e:
 
     # g "Malcolm, please leave me be. I'm not to be pitied, not anymore. I can take care of myself."
-    g ""
+    g "Малкольм, пожалуйста, оставь меня в покое. Меня больше не нужно жалеть. Я могу позаботиться о себе."
 
 # game/script_grace.rpy:2669
 translate russian ch2g_07a_fce52017:
 
     # c "I just want to know that you're safe out here."
-    c ""
+    c "Я просто хочу знать, что ты здесь в безопасности."
 
 # game/script_grace.rpy:2671
 translate russian ch2g_07a_2c5dc019:
 
     # "As she looks away, I realize how much I must sound like her sister."
-    ""
+    "Когда она отводит взгляд, я понимаю, насколько, должно быть, звучу как её сестра."
 
 # game/script_grace.rpy:2674
 translate russian ch2g_07a_17ea349e_1:
 
     # g "Malcolm, please leave me be. I'm not to be pitied, not anymore. I can take care of myself."
-    g ""
+    g "Малкольм, пожалуйста, оставь меня в покое. Меня больше не нужно жалеть. Я могу позаботиться о себе."
 
 # game/script_grace.rpy:2676
 translate russian ch2g_07a_dfac8784:
 
     # "The notion of Grace abandoning terrestrial living is at once both outlandish and terrifying. But I realize, neither reason is why I truly argue against it."
-    ""
+    "Представление о том, что Грейс отказывается от земной жизни, одновременно и чудно, и пугает. Но я понимаю, что ни одна из высказанных мной причин не является той, по которой я действительно выступаю против всего этого."
 
 # game/script_grace.rpy:2677
 translate russian ch2g_07a_ae873dc1:
 
     # "I argue because I can't bear the thought of losing her. Of her leaving me to become the loch's mistress."
-    ""
+    "Я спорю, потому что мне невыносима мысль о том, что я могу потерять её. О том, что она оставит меня, чтобы стать владычицей озера."
 
 # game/script_grace.rpy:2679
 translate russian ch2g_07a_8d9a8c80:
 
     # "Grace's words from yesterday echo in my memory. \"I am not yours to lose.\""
-    ""
+    "Вчерашние слова Грейс эхом отдаются в моей памяти. \"Я не твоя собственность, чтобы меня терять\"."
 
 # game/script_grace.rpy:2680
 translate russian ch2g_07a_c54caa26:
 
     # "We've said our pieces. Her mind is made up. If I truly care for her, I must respect her decision."
-    ""
+    "Мы высказались. Она приняла решение. Если я действительно забочусь о ней, то должен её решение уважать."
 
 # game/script_grace.rpy:2682
 translate russian ch2g_07a_2b3ef1ab:
 
     # c "Grace, I just want you to be happy."
-    c ""
+    c "Грейс, я просто хочу, чтобы ты была счастлива."
 
 # game/script_grace.rpy:2684
 translate russian ch2g_07a_6cbdc296:
 
     # "She seems taken by surprise."
-    ""
+    "Кажется, она застигнута врасплох."
 
 # game/script_grace.rpy:2685
 translate russian ch2g_07a_938eee96:
 
     # g "But, Malcolm, I already told you. I {i}am{/i} happy. For once in my life, I feel truly blessed."
-    g ""
+    g "Но, Малкольм, я уже тебе говорила. Я {i}счастлива{/i}. Впервые в жизни я чувствую себя по-настоящему счастливой."
 
 # game/script_grace.rpy:2686
 translate russian ch2g_07a_c34f5ca9:
 
     # c "...Me too. Thanks to you."
-    c ""
+    c "...Я тоже. Благодаря тебе."
 
 # game/script_grace.rpy:2690
 translate russian ch2g_07a_49b6b570:
 
     # "There are a thousand things I want to say, and I have the words for none of them. Finally I settle on one simple question."
-    ""
+    "Есть тысяча вещей, которые я хочу ей сказать, и ни для одной из них у меня не находится слов. Наконец я останавливаюсь на одном простом вопросе."
 
 # game/script_grace.rpy:2692
 translate russian ch2g_07a_cd65019b:
 
     # c "Can I see you again?"
-    c ""
+    c "Мы увидимся снова?"
 
 # game/script_grace.rpy:2695
 translate russian ch2g_07a_f59ded6a:
 
     # g "I want to say yes. Truly I do."
-    g ""
+    g "Я хочу сказать \"да\". Правда хочу."
 
 # game/script_grace.rpy:2696
 translate russian ch2g_07a_a52ae1c5:
 
     # "The wall comes tumbling down, but I realize we still remain separated by an enormous divide."
-    ""
+    "Стена рушится, но я понимаю, что нас по-прежнему разделяет огромная пропасть."
 
 # game/script_grace.rpy:2698
 translate russian ch2g_07a_c8eb88ca:
 
     # g "Oh, how do I say this..."
-    g ""
+    g "Ох, как бы мне это сказать..."
 
 # game/script_grace.rpy:2701
 translate russian ch2g_07a_9750378c:
 
     # g "I'm afraid if... if we grow more attached, that will only lead to more heartbreak. How can I pledge my heart to you when my true love is the sea?"
-    g ""
+    g "Я боюсь, что... что если мы ещё больше привяжемся друг к другу, это только сильнее разобъёт нам сердца. Как я могу отдать тебе своё сердце, когда моя настоящая любовь — это море?"
 
 # game/script_grace.rpy:2702
 translate russian ch2g_07a_0a61def0:
 
     # "I never imagined I'd be in a love triangle with a body of water. I laugh, but Grace remains quite serious."
-    ""
+    "Я никогда не думал, что окажусь в любовном треугольнике с водоёмом. Я смеюсь, но Грейс остаётся совершенно серьезной."
 
 # game/script_grace.rpy:2703
 translate russian ch2g_07a_003b0ef8:
 
     # c "Are such things... mutually exclusive? I'm sure we can learn to share."
-    c ""
+    c "Разве подобные вещи... взаимоисключают друг друга? Я уверен, что мы можем научиться делиться."
 
 # game/script_grace.rpy:2705
 translate russian ch2g_07a_0d5ff0b6:
 
     # "The look she gives me tells me I don't understand."
-    ""
+    "Взгляд, который она бросает на меня, говорит о том, что я не понимаю."
 
 # game/script_grace.rpy:2706
 translate russian ch2g_07a_b566274f:
 
     # g "Malcolm, I don't want you to play the role of captain's wife, staring out over the ocean, waiting for the day he comes home. You deserve better than that."
-    g ""
+    g "Малькольм, я не хочу, чтобы ты играл роль жены капитана, смотрящей на океан в ожидании того дня, когда он вернется домой. Ты заслуживаешь лучшего."
 
 # game/script_grace.rpy:2708
 translate russian ch2g_07a_a24e3810:
 
     # g "And... I don't want to have to feel torn between sailing and coming back to port."
-    g ""
+    g "И... Я не хочу разрываться между отплытием и возвращением в порт."
 
 # game/script_grace.rpy:2710
 translate russian ch2g_07a_f5fdd6b1:
 
     # g "I know that sounds selfish, and perhaps it is. But there is something... {i}calling{/i} to me out there, and I know I can't stay here."
-    g ""
+    g "Я знаю, это звучит эгоистично, и, возможно, так оно и есть. Но что-то... {i}зовёт{/i} меня оттуда, и я знаю, что не могу здесь оставаться."
 
 # game/script_grace.rpy:2712
 translate russian ch2g_07a_6bc5ec84:
 
     # "Her words are hurtful. Am I just an anchor to her? Is this \"call of the sea\" really so strong?"
-    ""
+    "Её слова ранят. Я просто якорь для неё? Действительно ли этот \"зов моря\" так силён?"
 
 # game/script_grace.rpy:2714
 translate russian ch2g_07a_d0e7e009:
 
     # c "I guess you're right. I really don't understand what you are going through right now."
-    c ""
+    c "Наверное, ты права. Я действительно не понимаю, через что ты сейчас проходишь."
 
 # game/script_grace.rpy:2716
 translate russian ch2g_07a_83eafa82:
 
     # "She offers me a sympathetic look, then turns away."
-    ""
+    "Она бросает на меня сочувственный взгляд, затем отворачивается."
 
 # game/script_grace.rpy:2718
 translate russian ch2g_07a_5f00716b:
 
     # g "I'm sorry, Malcolm. My fate lies with the sea. Your fate lies elsewhere."
-    g ""
+    g "Мне жаль, Малькольм. Моя судьба связана с морем. Твоя судьба ждёт в другом месте."
 
 # game/script_grace.rpy:2726
 translate russian ch2g_07a_9fa8b09c:
 
     # "We look out over the tide for a time. It's coming back in, and soon our position will be reclaimed by the loch."
-    ""
+    "Некоторое время мы наблюдаем за приливом. Он возвращается, и вскоре озеро вернёт себе наши места."
 
 # game/script_grace.rpy:2727
 translate russian ch2g_07a_bcc68374:
 
     # "I finally stand to pack up the remains of our meal. Grace remains motionless, fixated on the horizon."
-    ""
+    "Наконец я встаю, чтобы собрать остатки нашей трапезы. Грейс остаётся неподвижной, устремив взгляд d горизонт."
 
 # game/script_grace.rpy:2728
 translate russian ch2g_07a_c6660915:
 
     # "Will we cross paths again? Could I bear the heartache if we did? The water creeps closer, and I know that for now, I must move on."
-    ""
+    "Пересекутся ли наши пути снова? А если пересекутся, смог бы я вынести душевную боль? Вода подбирается всё ближе, и я знаю, что сейчас я должен двигаться дальше."
 
 # game/script_grace.rpy:2730
 translate russian ch2g_07a_531ddce7:
 
     # g "Malcolm. You've a good soul. Thank you for all the kindness you've shown my sisters and me."
-    g ""
+    g "Малькольм. У тебя добрая душа. Спасибо тебе за всю доброту, которую ты проявил к моим сёстрам и ко мне."
 
 # game/script_grace.rpy:2732
 translate russian ch2g_07a_a972c11d:
 
     # "Two ships, passing in the wide open sea. I think back to the afternoon after the sermon, and wonder... if not for our chance meeting, might my ship have sunk?"
-    ""
+    "Два корабля, плывущие в открытом море. Я вспоминаю день после проповеди и задаюсь вопросом... если бы не наша случайная встреча, затонул бы мой корабль?"
 
 # game/script_grace.rpy:2734
 translate russian ch2g_07a_1dd11306:
 
     # c "Thank you, too, Grace. For everything. More than you know."
-    c ""
+    c "И тебе спасибо, Грейс. За всё. За большее, чем ты думаешь."
 
 # game/script_grace.rpy:2736
 translate russian ch2g_07a_40310fcf:
 
     # "She finally looks back up at me, smiling through the tears in her eyes. I have to fight back tears of my own."
-    ""
+    "Она, наконец, снова поднимает на меня взгляд, улыбаясь сквозь слёзы в глазах. Мне приходится бороться со своими собственными слезами."
 
 # game/script_grace.rpy:2737
 translate russian ch2g_07a_c5484e7e:
 
     # c "Promise me. If you ever need something, if {i}anything{/i} goes wrong—"
-    c ""
+    c "Пообещай мне. Если тебе когда-нибудь что-нибудь понадобится, если{i}что-нибудь{/i} пойдёт не так..."
 
 # game/script_grace.rpy:2740
 translate russian ch2g_07a_b3d0b579:
 
     # "The lopsided grin I know and love returns."
-    ""
+    "Кривая усмешка, которую я знаю и люблю, возвращается."
 
 # game/script_grace.rpy:2741
 translate russian ch2g_07a_a0c4a7c4:
 
     # g "I will. But don't worry. I can take care of myself."
-    g ""
+    g "Обещаю. Но не волнуйся. Я могу сама о себе позаботиться."
 
 # game/script_grace.rpy:2744
 translate russian ch2g_07a_5b105d5a:
 
     # "I nod in concession."
-    ""
+    "Я киваю в знак согласия."
 
 # game/script_grace.rpy:2745
 translate russian ch2g_07a_cf14c0b8:
 
     # c "I know you can."
-    c ""
+    c "Знаю, что можешь."
 
 # game/script_grace.rpy:2757
 translate russian ch2g_07a_f8fcefb8:
 
     # "It's been hours since I returned from the loch, but my heart is still raw from when we said our goodbyes."
-    ""
+    "Прошло несколько часов с тех пор, как я вернулся с озера, но моё сердце всё ещё болит с тех пор, как мы попрощались."
 
 # game/script_grace.rpy:2758
 translate russian ch2g_07a_e746b357:
 
     # "I wish it hadn't ended like this. But, perhaps it's for the best. I already feel a load lifted from my shoulders. Grace's condition? Alana's misgivings? All out of my hands, no longer my concern."
-    ""
+    "Я не хотел, чтобы всё так закончилось. Но, возможно, это к лучшему. Я уже чувствую, что с моих плеч свалился груз. Состояние Грейс? Опасения Аланы? Всё, что не в моей власти, меня больше не касается."
 
 # game/script_grace.rpy:2759
 translate russian ch2g_07a_045e4ad2:
 
     # "Saying as much in my head, it sounds a little callous. But right now it's all I can do to cope."
-    ""
+    "В моей голове эта мысль звучит немного бессердечно. Но прямо сейчас это всё, что я могу сделать, чтобы справиться с расставанием."
 
 # game/script_grace.rpy:2762
 translate russian ch2g_07a_6b77bdac:
 
     # "Gran and I dine early, and pull two chairs outside to watch the sunset. The hum of insects, punctuated by the thrum of distant frogs, punctuates the relaxing atmosphere."
-    ""
+    "Мы с бабушкой рано ужинаем и выносим два стула наружу, чтобы полюбоваться закатом. Жужжание насекомых, перемежаемое отдаленным кваканьем лягушек, подчёркивает расслабляющую атмосферу."
 
 # game/script_grace.rpy:2770
 translate russian ch2g_07a_73c8f510:
 
     # "I suppose she has a right to know. And I have a right to commiserate with someone over Alana's peculiar brand of madness."
-    ""
+    "Я полагаю, у неё есть право знать. И у меня есть право с кем-нибудь посочувствовать над своего рода безумием Аланы."
 
 # game/script_grace.rpy:2771
 translate russian ch2g_07a_b9b9649e:
 
     # c "Well, as it happens, I ran into Alana this morning."
-    c ""
+    c "Ну, так уж получилось, что сегодня утром я столкнулся с Аланой."
 
 # game/script_grace.rpy:2773
 translate russian ch2g_07a_86ce9393:
 
     # g "Oh? How is the old bat?"
-    g ""
+    g "О?” Как поживает эта старая сумасшедшая?"
 
 # game/script_grace.rpy:2774
 translate russian ch2g_07a_bcb70b3b:
 
     # c "Batty as ever. She said the craziest thing..."
-    c ""
+    c "Сходит с ума, как и всегда. Она сказала самую безумную вещь, что я слышал..."
 
 # game/script_grace.rpy:2776
 translate russian ch2g_07a_62da836a:
 
     # "I recount my encounter with our old schoolteacher at the market. Grace listens intently, her eyes getting wider with every word."
-    ""
+    "Я рассказываю о своей встрече с нашей старой школьной учительницей на рынке. Грейс внимательно слушает, её глаза расширяются с каждым словом."
 
 # game/script_grace.rpy:2778
 translate russian ch2g_07a_0a80b952:
 
     # g "I believe it. Every. Single. Bit!."
-    g ""
+    g "Я Вюрю. Абсолютно. Каждому. Слову!."
 
 # game/script_grace.rpy:2779
 translate russian ch2g_07a_fae09ab4:
 
     # c "You do?"
-    c ""
+    c "Правда веришь?"
 
 # game/script_grace.rpy:2780
 translate russian ch2g_07a_902b8553:
 
     # "I should have known these two would be in cahoots."
-    ""
+    "Я должен был догадаться, что эти двое будут в сговоре."
 
 # game/script_grace.rpy:2782
 translate russian ch2g_07a_9545316b:
 
     # g "Aye. I wonder if she can tell me more!"
-    g ""
+    g "Ага. Интересно, может ли она рассказать мне ещё что-нибудь!"
 
 # game/script_grace.rpy:2783
 translate russian ch2g_07a_3e2e89d4:
 
     # "I fear what will occur when Grace meets up with Alana and her mystical beliefs. Something cataclysmic, no doubt."
-    ""
+    "Я боюсь того, что произойдет, когда Грейс встретится с Аланой и её мистическими убеждениями. Не сомневаюсь, что какой-нибудь катаклизм."
 
 # game/script_grace.rpy:2784
 translate russian ch2g_07a_9df95759:
 
     # c "Grace. She's as concerned about you as the rest of us. Doesn't it trouble you that the one woman who claims to know what's going on is also worried about your... your changes?"
-    c ""
+    c "Грейс. Она беспокоится о тебе так же, как и все мы. Тебя не беспокоит, что единственную женщину, которая утверждает, что знает, что происходит, также беспокоят... твои изменения?"
 
 # game/script_grace.rpy:2786
 translate russian ch2g_07a_956fa9b9:
 
     # g "It's not just physical changes, Malcolm. I feel more comfortable in my own scales than I've ever felt before."
-    g ""
+    g "Это не просто физические изменения, Малькольм. Я чувствую себя комфортнее в своей собственной чешуе, чем когда-либо прежде."
 
 # game/script_grace.rpy:2787
 translate russian ch2g_07a_54260dda:
 
     # c "Your own skin, don't you mean?"
-    c ""
+    c "В виду своей собственной коже, ты имеешь в виду?"
 
 # game/script_grace.rpy:2789
 translate russian ch2g_07a_a1229407:
 
     # g "Open your eyes! Scales, Malcolm. Webbing. Fins. A tail. Don't these bear a shred of truth to this fantasy?"
-    g ""
+    g "Открой глаза! Чешуя, Малкольм. Перепонки. Плавники. Хвост. Разве они не привносят хоть капельку правды в эти фантазии?"
 
 # game/script_grace.rpy:2790
 translate russian ch2g_07a_75f661c7:
 
     # c "I—{w}What's that? A {i}tail,{/i} now?"
-    c ""
+    c "Я—{w}Что? Теперь ещё и {/i}Хвост{i}?"
 
 # game/script_grace.rpy:2792
 translate russian ch2g_07a_ee92eaa7:
 
     # "Grace blushes, as if she let slip mention of a private part."
-    ""
+    "Грейс краснеет, как будто проговорилась о чем-то интимном."
 
 # game/script_grace.rpy:2793
 translate russian ch2g_07a_c4b63220:
 
     # g "Just a nub of a thing. But I've a feeling it's just the beginning."
-    g ""
+    g "Просто маленький отросток. Но у меня такое чувство, что это только начало."
 
 # game/script_grace.rpy:2804
 translate russian ch2g_07a_f79cfa06:
 
     # "She gets up and bends over, giving me a view of her tail... and so much more."
-    ""
+    "Она встаёт и наклоняется, показывая мне свой хвост... и многое другое."
 
 # game/script_grace.rpy:2805
 translate russian ch2g_07a_3380a208:
 
     # c "Och, Grace, mind your propriety!"
-    c ""
+    c "Ох, Грейс, не забывай о приличиях!"
 
 # game/script_grace.rpy:2806
 translate russian ch2g_07a_603b3e50:
 
     # g "It's nothing you haven't seen! Besides...you asked."
-    g ""
+    g "Там нет ничего такого, чего ты ещё не видел! Кроме того...ты сам спросил."
 
 # game/script_grace.rpy:2810
 translate russian ch2g_07a_3c267d47:
 
     # g "Go on! Feel it!"
-    g ""
+    g "Давай! Потрогай его!"
 
 # game/script_grace.rpy:2820
 translate russian ch2g_07a_d5eae4a6:
 
     # "I swallow, and press gently on the spongy protrusion. It not only pushes back, it emerges further."
-    ""
+    "Я сглатываю и осторожно нажимаю на упругий выступ. Он не только отодвигается, но и вырастает больше."
 
 # game/script_grace.rpy:2821
 translate russian ch2g_07a_bb5e0c6f:
 
     # c "Oh! Oh, no."
-    c ""
+    c "Ох! О, нет."
 
 # game/script_grace.rpy:2822
 translate russian ch2g_07a_383d37a0:
 
     # "I try to push it back in."
-    ""
+    "Я пытаюсь затолкать его обратно."
 
 # game/script_grace.rpy:2823
 translate russian ch2g_07a_fd77fc5c:
 
     # g "Ow! Malcolm, stop!"
-    g ""
+    g "Ай! Малькольм, прекращай!"
 
 # game/script_grace.rpy:2833
 translate russian ch2g_07a_e79ca939:
 
     # "It inches out further, right before my eyes."
-    ""
+    "Он вытягивается ещё сильней, прямо у меня на глазах."
 
 # game/script_grace.rpy:2843
 translate russian ch2g_07a_2fd13b1c:
 
     # "She slaps my hand away, and reaches back to rub her new appendage."
-    ""
+    "Она шлёпает мою руку и тянется назад, чтобы потереть свой новый отросток."
 
 # game/script_grace.rpy:2844
 translate russian ch2g_07a_4ccec498:
 
     # c "It hurts?"
-    c ""
+    c "Болит?"
 
 # game/script_grace.rpy:2845
 translate russian ch2g_07a_a1d90a1f:
 
     # g "It didn't... until you started poking at it!"
-    g ""
+    g "Не болел... пока ты не начал тыкать в него!"
 
 # game/script_grace.rpy:2852
 translate russian ch2g_07a_6f8e4f27:
 
     # "Her... tail wiggles a little now, as if teasing me. "
-    ""
+    "Её... хвост теперь слегка виляет, как будто дразнит меня."
 
 # game/script_grace.rpy:2854
 translate russian ch2g_07a_3101a8a1:
 
     # "My mind swirls. She's right. There are fewer and fewer ways that this could be passed off as a mere skin condition."
-    ""
+    "У меня в голове всё перемешалось. Она права. Остается всё меньше и меньше доводов объяснить это простым кожным заболеванием."
 
 # game/script_grace.rpy:2855
 translate russian ch2g_07a_ae637e7e:
 
     # "But then, if Alana was right about these changes, does that mean there's also a grain of truth to her accusation? Do I really play a role in them?"
-    ""
+    "Но тогда, если Алана была права насчет этих изменений, значит ли, что в её упрёке тоже есть доля истины? Действительно ли я играю в этих преображениях какую-то роль?"
 
 # game/script_grace.rpy:2857
 translate russian ch2g_07a_98ca73ad:
 
     # c "Grace, you need to know... Alana said that somehow, {i}I{/i} was the one prompting these changes. That if I continue seeing you, they'll only get worse. And... the consequences of that—"
-    c ""
+    c "Грейс, ты должна знать... Алана сказала, что каким-то образом {i}я{/i} был тем, кто спровоцировал эти изменения. Что если я продолжу встречаться с тобой, они продолжатся. И... последствия этого..."
 
 # game/script_grace.rpy:2858
 translate russian ch2g_07a_b7b249f7:
 
     # g "\"Would be dire?\" It's always tell, tell, tell, and never listen."
-    g ""
+    g "\"Будут ужасными?\" Как всегда говоришь, говоришь, говоришь и никогда не слушаешь."
 
 # game/script_grace.rpy:2868
 translate russian ch2g_07a_bb0d7314:
