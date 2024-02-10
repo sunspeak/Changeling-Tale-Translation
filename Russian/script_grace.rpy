@@ -21362,7 +21362,7 @@ translate russian ch3g_otherfishinthesea_accf9c57:
 translate russian ch3g_otherfishinthesea_d4daac13:
 
     # "For Grace, I hold an empty place in my heart. But for those who remain, those parts of my heart are full."
-    "Для Грейс в моём сердце осталось пустое место. Но для тех, кто остался, эти части моего сердца полны."
+    "Для Грейс в моём сердце осталось пустота. Но для тех, кто остался, эти части моего сердца полны."
 
 # game/script_grace.rpy:11177
 translate russian ch3g_11_a_872e384e:
@@ -21374,181 +21374,181 @@ translate russian ch3g_11_a_872e384e:
 translate russian ch3g_11_a_5b4ef25a:
 
     # c "Well, truthfully... so am I. No one has ever made me feel the way you do."
-    c ""
+    c "Что ж, по правде говоря... я тоже. Никто и никогда не заставлял меня чувствовать себя так, как ты."
 
 # game/script_grace.rpy:11180
 translate russian ch3g_11_a_8a20f758:
 
     # g "I feel the same way. And so much more! Oh, I can't even {i}describe{/i} how much more."
-    g ""
+    g "Я чувствую то же самое. И даже больше! О, я даже не могу {i}описать{/i}, насколько больше."
 
 # game/script_grace.rpy:11181
 translate russian ch3g_11_a_330a4da1:
 
     # c "I know. At least, I think I understand. And I never want to take that away from you. I came to—"
-    c ""
+    c "Я знаю. По крайней мере, мне кажется, я понимаю. И я никогда не хочу отнимать это у тебя. Я пришёл, чтобы..."
 
 # game/script_grace.rpy:11182
 translate russian ch3g_11_a_8bafc2c1:
 
     # "I start to explain but she interrupts."
-    ""
+    "Я начинаю объясняться, но она перебивает."
 
 # game/script_grace.rpy:11184
 translate russian ch3g_11_a_4c403d4a:
 
     # g "Malcolm, I'm so sorry. I am. Please forgive me. What I did—what I said—it was all so hurtful. And I didn't mean it to be."
-    g ""
+    g "Малькольм, мне так жаль. Правда. Пожалуйста, прости меня. То, что я сделала, то, что я сказала, — всё это было так обидно. И я не хотела, чтобы так всё вышло."
 
 # game/script_grace.rpy:11185
 translate russian ch3g_11_a_75971c2f:
 
     # "I stare at her. Innocent is a word I never thought I'd use to describe Grace, but here she is, wearing her heart on her sleeve."
-    ""
+    "Я смотрю на неё. Невинная - это слово, которое я никогда не думал, что использую для описания Грейс, но вот она передо мной, с сердцем нараспашку."
 
 # game/script_grace.rpy:11186
 translate russian ch3g_11_a_a2b80872:
 
     # "It's all I can do to stop myself from wrapping both my arms around her and never letting her go."
-    ""
+    "Это всё, что я могу сделать, чтобы удержаться от того, чтобы обнять её обеими руками и никогда не отпускать."
 
 # game/script_grace.rpy:11188
 translate russian ch3g_11_a_382e37ba:
 
     # g "Please, Malcolm. If you can't forgive me, at least... don't hate me. I could never live with myself. I know how selfish I was."
-    g ""
+    g "Пожалуйста, Малкольм. Если ты не можешь простить меня, по крайней мере... не ненавидь меня. Я никогда не смогу жить в согласии с самой собой. Я знаю, какой самовлюблённой я была."
 
 # game/script_grace.rpy:11190
 translate russian ch3g_11_a_306a9402:
 
     # c "Shellfish?"
-    c ""
+    c "Сомовлюблённой?"
 
 # game/script_grace.rpy:11204
 translate russian ch3g_11_a_8f1b4246:
 
     # "The tip of her tail whacks the water, sending a cold splash over me."
-    ""
+    "Кончик её хвоста бьет по воде, обдавая меня холодными брызгами."
 
 # game/script_grace.rpy:11207
 translate russian ch3g_11_a_785c2fcd:
 
     # g "I'm trying to have a serious moment with you, here! You know how hard that is for me."
-    g ""
+    g "Я пытаюсь поговорить с тобой о серьезных вещах! Ты знаешь, как это тяжело для меня."
 
 # game/script_grace.rpy:11208
 translate russian ch3g_11_a_a4be1cf1:
 
     # c "A conversation doesn't need to be serious to be honest, does it?"
-    c ""
+    c "Разговор не обязательно должен быть серьезным, чтобы быть честным, не так ли?"
 
 # game/script_grace.rpy:11211
 translate russian ch3g_11_a_70b667f2:
 
     # "Grace ponders for a moment, then finally cracks a smile. I love seeing her smile."
-    ""
+    "Грейс на мгновение задумывается, затем, наконец, выдавливает улыбку. Мне нравится видеть её такой."
 
 # game/script_grace.rpy:11212
 translate russian ch3g_11_a_915a3261:
 
     # g "No, I suppose not."
-    g ""
+    g "Нет, полагаю, что нет."
 
 # game/script_grace.rpy:11213
 translate russian ch3g_11_a_2d9a71d1:
 
     # c "Good. Because you have nothing to be sorry for. If anyone should apologize, it's me, for being reluctant to plunge into this relationship headfirst."
-    c ""
+    c "Хорошо. Потому что тебе не за что извиняться. Если кто-то и должен извиняться, так это я, за то, что не хотел с головой погружаться в наши отношения."
 
 # game/script_grace.rpy:11215
 translate russian ch3g_11_a_1ed0ad79:
 
     # g "But isn't that why you're here?"
-    g ""
+    g "Но разве не поэтому ты здесь?"
 
 # game/script_grace.rpy:11216
 translate russian ch3g_11_a_2ec74a60:
 
     # "I chuckle, reminded of the blunder that led me to be on these rocks."
-    ""
+    "Я хихикаю, вспомнив о грубой ошибке, приведшей меня на эти скалы."
 
 # game/script_grace.rpy:11217
 translate russian ch3g_11_a_16ebb301:
 
     # c "Who's not being serious now?"
-    c ""
+    c "И кто эьл сейчас несерьезен?"
 
 # game/script_grace.rpy:11220
 translate russian ch3g_11_a_34ef2b28:
 
     # g "I mean it. Who else would have accepted me so readily when I changed? Who would have followed me to the loch, and persuaded me to stay?"
-    g ""
+    g "Я серьёзно. Кто ещё принял бы меня с такой готовностью, когда я изменилась? Кто последовал бы за мной на озеро и убедил остаться?"
 
 # game/script_grace.rpy:11222
 translate russian ch3g_11_a_f3ec3d03:
 
     # g "Who else would have let a girl like me... have her way with him?"
-    g ""
+    g "Кто ещё позволил бы такой девушке, как я... поступать с ним как хочется?"
 
 # game/script_grace.rpy:11223
 translate russian ch3g_11_a_65703dcb:
 
     # c "Well... you can be very persuasive."
-    c ""
+    c "Хорошо... ты можешь быть очень убедительной."
 
 # game/script_grace.rpy:11225
 translate russian ch3g_11_a_776c9749:
 
     # g "I owe you, then, for discovering my talent. And for sticking with me, when everything I do would push any lesser man away."
-    g ""
+    g "Тогда я в долгу перед тобой за то, что ты открыл мой талант. И за то, что ты остаёшься со мной, когда всё, что я делаю, оттолкнуло бы любого другого мужчину."
 
 # game/script_grace.rpy:11226
 translate russian ch3g_11_a_520b700e:
 
     # c "I told you, Grace. I'm not going anywhere."
-    c ""
+    c "Я же говорил тебе, Грейс. Я никуда не уйду."
 
 # game/script_grace.rpy:11228
 translate russian ch3g_11_a_59e684f8:
 
     # "Grace rolls her eyes and sighs."
-    ""
+    "Грейс закатывает глаза и вздыхает."
 
 # game/script_grace.rpy:11229
 translate russian ch3g_11_a_5360b7fa:
 
     # g "Then I guess I'm stuck with you."
-    g ""
+    g "Тогда, я думаю, мне придётся остаться с тобой.""
 
 # game/script_grace.rpy:11238
 translate russian ch3g_11_a_23c733e8:
 
     # "Grace grabs hold of me the same way I am craving, and we hold tight to each other."
-    ""
+    "Грейс обнимает меня так сильно, как я того и желаю, и мы крепко прижимаемся друг к другу."
 
 # game/script_grace.rpy:11239
 translate russian ch3g_11_a_52a88f41:
 
     # "Our kisses begin and are hard to stop. But even as I am tasting her, I know more needs to be said."
-    ""
+    "Наши поцелуи начинаются, и их трудно остановить. Но даже пока пробую её на вкус, я понимаю, что нужно сказать ещё кое-что."
 
 # game/script_grace.rpy:11249
 translate russian ch3g_11_a_28492ad2:
 
     # c "Grace, I can only be myself. For you, for me. And I don't know if that can be everything you need."
-    c ""
+    c "Грейс, я могу быть только самим собой. Для тебя, для себя. И я не знаю, может ли это быть всем, что тебе нужно."
 
 # game/script_grace.rpy:11251
 translate russian ch3g_11_a_50e76f29:
 
     # "She stops, and I think I see understanding dawn on her face. She lifts her hands, flexing her fingers, and we both watch the thin webbing between them curl back and forth."
-    ""
+    "Она останавливается, и мне кажется, я вижу, как на её лице появляется понимание. Она поднимает руки, разминая пальцы, и мы оба наблюдаем, как тонкая перепонка между ними изгибается взад-вперёд."
 
 # game/script_grace.rpy:11252
 translate russian ch3g_11_a_f26f22c6:
 
     # g "This is a gift, Malcolm. A gift you've given me of magic, but it doesn't compare to the gift you've given me from your heart."
-    g ""
+    g "Это подарок, Малькольм. Ты подарил мне волшебство, но оно не идёт ни в какое сравнение с тем подарком, который ты сделал мне от своего сердца."
 
 # game/script_grace.rpy:11254
 translate russian ch3g_11_a_c51d1725:
