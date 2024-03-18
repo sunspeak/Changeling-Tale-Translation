@@ -19964,7 +19964,7 @@ translate russian ch4m_01_7a63f0c9:
 translate russian ch4m_01_65d42b54:
 
     # j "\"Market Day?\" My dear Marion, there are stores where you can buy anything you want, whenever you want! I walked in and saw foods I had never heard of. What on Earth is a \"water chestnut?\""
-    j "\"Рыночный День?\" Моя дорогая Мэрион, там магазины, в которых ты можешь купить всё, что захочешь, и когда захочешь! Я вошла и увидела продукты, о которых никогда не слышала. Что, черт возьми, такое \"водяной каштан\"?""
+    j "\"Рыночный День?\" Моя дорогая Мэрион, там магазины, в которых ты можешь купить всё, что захочешь, и когда захочешь! Я вошла и увидела продукты, о которых никогда не слышала. Что, черт возьми, такое \"водяной каштан\"?"
 
 # game/script_marion.rpy:10836
 translate russian ch4m_01_b2f4092b:
@@ -27464,7 +27464,7 @@ translate russian ch4m_07_539f7bb4:
 translate russian ch4m_07_381da719:
 
     # o "Then listen here, lad. {i}Stay away from my daughter.{/i} If I can't change her back... find someone, something that will fix her, then..."
-    o "Тогда слушай сюда, парень. {i}Держись подальше от моей дочери.{/i} Если я не смогу изменить её обратно... найди кого-нибудь, что-нибудь, что исправит её, тогда...
+    o "Тогда слушай сюда, парень. {i}Держись подальше от моей дочери.{/i} Если я не смогу изменить её обратно... найди кого-нибудь, что-нибудь, что исправит её, тогда..."
 
 # game/script_marion.rpy:15284
 translate russian ch4m_07_d78958e7:

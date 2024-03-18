@@ -4870,7 +4870,7 @@ translate russian ch2g_06_0c546b3a:
 translate russian ch2g_06_d96a6dbe:
 
     # "I push down that thought, not wanting it to cross my mind right now. Perhaps ever again."
-    "Я отбрасываю эту мысль, не желая, чтобы она приходила мне в голову прямо сейчас. Возможно, чтобы не приходила никогда.
+    "Я отбрасываю эту мысль, не желая, чтобы она приходила мне в голову прямо сейчас. Возможно, чтобы не приходила никогда."
 
 # game/script_grace.rpy:2292
 translate russian ch2g_06_5dd9619c:
@@ -16137,7 +16137,7 @@ translate russian ch3g_05_c_d5a69f38:
 
     # c "...Bagpipes? Why yes, I think I do."
     c "...Волынка? Слышу, я думаю."
-Как ты думаешь, кто бы мог играть здесь всю дорогу? В середине дня?
+
 # game/script_grace.rpy:8489
 translate russian ch3g_05_c_da1c2890:
 
@@ -17048,7 +17048,7 @@ translate russian ch3g_05_c_5324a2fe:
 translate russian ch3g_05_c_66f63e13:
 
     # c "I believe what Grace means to say is, we're all in this together, and we'll figure it out, with time. Right, Grace?"
-    c "Я думаю, Грейс хочет сказать, что мы все в одной лодке , и со временем разберёмся. Верно, Грейс?
+    c "Я думаю, Грейс хочет сказать, что мы все в одной лодке , и со временем разберёмся. Верно, Грейс?"
 
 # game/script_grace.rpy:9012
 translate russian ch3g_05_c_d3bc7f4a:
@@ -21518,7 +21518,7 @@ translate russian ch3g_11_a_59e684f8:
 translate russian ch3g_11_a_5360b7fa:
 
     # g "Then I guess I'm stuck with you."
-    g "Тогда, я думаю, мне придётся остаться с тобой.""
+    g "Тогда, я думаю, мне придётся остаться с тобой."
 
 # game/script_grace.rpy:11238
 translate russian ch3g_11_a_23c733e8:
@@ -31394,7 +31394,7 @@ translate russian ch4g_10sail_bb07b706:
 translate russian ch4g_10sail_f411f1b6:
 
     # "But when I look at Grace⁠—her mastery of the water, her prowess⁠—all of my fears dissipate. She is now my anchor, my vessel, and my compass."
-    "Но когда я смотрю на Грейс — её мастерство поведения в воде, её доблесть — все мои страхи рассеиваются. Теперь она мой якорь, моё судно и мой компас.
+    "Но когда я смотрю на Грейс — её мастерство поведения в воде, её доблесть — все мои страхи рассеиваются. Теперь она мой якорь, моё судно и мой компас."
 
 # game/script_grace.rpy:16450
 translate russian ch4g_10sail_505acf9a:
@@ -31454,7 +31454,7 @@ translate russian ch4g_10sail_424a09d7:
 translate russian ch4g_10sail_ed0a94d5:
 
     # c "Happiness, perhaps?"
-    c "Может быть, счастье?""
+    c "Может быть, счастье?"
 
 # game/script_grace.rpy:16492
 translate russian ch4g_10sail_5e3656a2:
@@ -32588,7 +32588,7 @@ translate russian ch4g_13sail_e846d8aa:
 translate russian ch4g_13sail_6e732050:
 
     # "But fate saw fit to grant me a relationship of a different kind. One of a kind, in fact. I wouldn't trade it for the world."
-    "Но судьба сочла нужным подарить мне отношения другого рода. На самом деле, единственных в своем роде. Я бы не променял их ни на что на свете.
+    "Но судьба сочла нужным подарить мне отношения другого рода. На самом деле, единственных в своем роде. Я бы не променял их ни на что на свете."
 
 # game/script_grace.rpy:17301
 translate russian ch4g_13sail_240ec98b:
